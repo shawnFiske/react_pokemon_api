@@ -1,0 +1,17 @@
+{"meta": 
+  {
+  "limit": 1, "next": "/api/v1/sprite/?limit=1&offset=2", "offset": 1, "previous": "/api/v1/sprite/?limit=1&offset=0", "total_count": 719
+  }, 
+  "objects": 
+  [
+    {
+      "created": "2013-11-16T17:20:39.964632", "id": 2, "image": "/media/img/1.png", "modified": "2013-11-16T17:20:39.964589", "name": "Bulbasaur_auto", 
+      "pokemon": 
+      {
+          "name": "bulbasaur", "resource_uri": "/api/v1/pokemon/1/"
+      }, 
+      "resource_uri": "/api/v1/sprite/2/"
+    }
+  ]
+}
+
